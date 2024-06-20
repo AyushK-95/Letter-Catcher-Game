@@ -1,6 +1,6 @@
-## Letter-Catcher-Game
+# Letter-Catcher-Game
 
-# Game Description:
+## Game Description:
 
 Players start with a blank black screen with a red line near the bottom of the
 screen. Letters start appearing near the top of the screen, randomly from A
@@ -10,7 +10,7 @@ This game can be used as typing practice, as it can increase the users typing
 coordination and speed. It forces them to type letters on a keyboard as fast as
 possible.
 
-# How to Play:
+## How to Play:
 
 The game is played with the use of the PS/2 keyboard device. The user is to
 type the appropriate keys on this device in order to ‘catch’ the letters while
